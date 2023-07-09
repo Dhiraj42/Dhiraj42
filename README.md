@@ -1,4 +1,4 @@
-![logo](https://github.com/Dhiraj42/Dhiraj42/assets/112410533/5f08d55d-1e02-45e3-8566-4a03d1cd9495)
+![logo](https://github.com/Dhiraj42/Dhiraj42/assets/112410533/850f4938-daa2-4af5-bde0-2394613521e5)
 <h1 align="center">Hi 👋, I'm Dhiraj Sonawane</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
