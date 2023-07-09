@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dhiraj Sonawane</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Dhiraj42/Dhiraj42/assets/112410533/c582e1f8-2069-4e7e-849a-bae3e08e127b">
+<img align="right" alt="coding" width="350" src="https://github.com/Dhiraj42/Dhiraj42/assets/112410533/c582e1f8-2069-4e7e-849a-bae3e08e127b">
 
 - 🌱 I’m currently learning **Deep Learning**
 
